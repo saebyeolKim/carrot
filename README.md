@@ -10,6 +10,6 @@
 <details>
   <summary>ERD</summary>
 
-  ![carrotMarketERD](https://github.com/saebyeolKim/carrotMarket/assets/94090893/192d5541-c687-48c7-9f21-5d023ee3b773)
+  ![carrotMarketERD](https://github.com/saebyeolKim/carrot/assets/94090893/3d6dce98-24a1-4160-a1cf-96b92005c546)
 
 </details>
