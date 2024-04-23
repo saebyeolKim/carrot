@@ -1,0 +1,21 @@
+spring:
+  profiles:
+    active: test
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://43.202.141.90:3306/carrot?serverTimezone=Asia/Seoul
+    username: toquf
+    password: 1234
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        # show_sql: true
+        format_sql: true
+        use_sql_comments: true
+
+logging.level:
+  org.hibernate.SQL: debug
+  # org.hibernate.type: trace
