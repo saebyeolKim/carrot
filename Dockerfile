@@ -1,6 +1,8 @@
 FROM openjdk:17-jdk
 
-ARG JAR_FILE=build/libs/carrot-0.0.1-SNAPSHOTT.jar
+EXPOSE 9090
+
+ARG JAR_FILE=build/libs/carrot-0.0.1-SNAPSHOT.jar
 
 COPY ${JAR_FILE} carrot.jar
 
