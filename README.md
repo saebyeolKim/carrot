@@ -7,6 +7,7 @@
 <br> - jpa
 <br> - postgreSql
 <br> - swagger
+jenkins test
 <details>
   <summary>ERD</summary>
 
