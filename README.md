@@ -18,3 +18,6 @@
   ![carrotMarketERD](https://github.com/saebyeolKim/carrot/assets/94090893/3d6dce98-24a1-4160-a1cf-96b92005c546)
 
 </details>
+
+
+2024-07-05 : bootstrap 적용
