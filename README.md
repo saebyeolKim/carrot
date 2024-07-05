@@ -20,4 +20,4 @@
 </details>
 
 
-2024-07-05 : bootstrap 적용
+2024-07-05 : bootstrap 적용 https://startbootstrap.com/template/shop-item#google_vignette
