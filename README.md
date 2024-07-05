@@ -5,9 +5,13 @@
 <br> - gradle
 <br> - spring security
 <br> - jpa
-<br> - postgreSql
-<br> - swagger
-jenkins test
+<br> - mariaDB
+<br> - swagger Api
+<br> - thymeleaf
+<br> - CI/CD ???
+<br>
+<br>
+👀 API 설계 후 ajax 로 렌더링 해 화면에 값 mapping
 <details>
   <summary>ERD</summary>
 
